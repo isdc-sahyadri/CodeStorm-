@@ -1,6 +1,6 @@
 <img src="ISDC Hackathon.png" />
 
-# {Team Name}
+# CodeStorm
 
 Welcome to the **ISDC Hackathon!** 🚀
 
